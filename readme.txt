@@ -1,0 +1,1 @@
+This folder contains many other folders that are necessary for Coding Dojo.
